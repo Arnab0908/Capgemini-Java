@@ -1,0 +1,23 @@
+package flowControlStatement.LoopingStmt;
+
+public class Program2PrimeNumber {
+
+	public static void main(String[] args) {
+		//prime no.
+		int i=3;
+		
+		int count=0;
+		for(int j=1;j<=i;j++) {
+		if(i%j==0) {
+			count++;
+		}
+
+	}if(count==2) {
+   System.out.println("Prime");
+   
+	}else {
+		System.out.println("Not Prime");
+	}
+
+}
+}

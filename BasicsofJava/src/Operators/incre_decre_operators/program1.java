@@ -10,7 +10,7 @@ public class program1 {
 		 */
 	
 		System.out.println(a++);//post increment
-		
+		System.out.println(a);
 		
 	}
 
