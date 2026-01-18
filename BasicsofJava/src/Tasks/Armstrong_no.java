@@ -23,7 +23,7 @@ public class Armstrong_no {
           }
 
           sum += power;
-         
+          temp /= 10;
 		}
 		 if (sum == num) {
 	            System.out.println(num + " is an Armstrong number");

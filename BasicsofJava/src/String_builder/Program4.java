@@ -1,0 +1,19 @@
+package String_builder;
+
+public class Program4 {
+
+	public static void main(String[] args) {
+		StringBuilder sb= new StringBuilder();
+		sb.append("abcd");
+System.out.println(sb.reverse());
+sb.append("1234hello");
+	System.out.println(sb);
+	sb.delete(3, 6);
+	System.out.println(sb);
+	sb.insert(2, "student");
+	System.out.println(sb);
+	
+
+	}
+
+}
