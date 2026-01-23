@@ -2,7 +2,7 @@ package Tasks;
 
 
 	/*
-	 * A subarray is a continuous (connected) part of an array. The elements must be next to each other
+	 * A1 subarray is a continuous (connected) part of an array. The elements must be next to each other
 and in the same order.
 Example:
 Array = [1, 2, 3, 4]

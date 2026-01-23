@@ -6,7 +6,7 @@ public class Program2 {
 		// TODO Auto-generated method stub
 		//Upper Case
 		char c='A';
-		//'A'--.'a'
+		//'A1'--.'a'
 		//65---97-->32
 		//Lower case
 		System.out.println((char)(c+32));

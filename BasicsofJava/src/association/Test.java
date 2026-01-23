@@ -1,7 +1,7 @@
 package association;
 
 /*
- * Test class to demonstrate HAS-A relationship
+ * Test class to demonstrate HAS-A1 relationship
  */
 public class Test {
 

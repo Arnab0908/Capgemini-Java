@@ -17,7 +17,7 @@ public class Employee {
 		public void display() {
 			System.out.println("ID:"+id);
 			System.out.println("Name:"+name);
-			System.out.println("Salary:"+salary);
+			System.out.println("Source:"+salary);
 		}
 		
 		

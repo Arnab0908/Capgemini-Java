@@ -8,7 +8,7 @@ public class Car {
     // Car price
     private double price;
 
-    // HAS-A relationship (Composition)
+    // HAS-A1 relationship (Composition)
     private Engine engine;
     private Tyre tyre;
 

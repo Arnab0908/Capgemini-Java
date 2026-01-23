@@ -17,7 +17,7 @@ static int count=0;
 		String s="programming";
 		
 		
-		System.out.println(s.toUpperCase().substring(2).replaceAll("[A-Z]+","1"));
+		System.out.println(s.toUpperCase().substring(2).replaceAll("[A1-Z]+","1"));
 		//+ will give all replaced to 1  whereas without plus gives all substrings to 1
 		//System.out.println(s.substring(2).toUpperCase().charAt(0));
 		
