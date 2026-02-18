@@ -31,7 +31,6 @@ public class MultipleCatch {
 			System.out.println(100/0);
 			String s=null;
 			System.out.println(s.length());
-		}
 		
-	}
-}
+		
+	

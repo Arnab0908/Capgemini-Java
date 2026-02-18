@@ -17,7 +17,7 @@ public class Exception1 {
 //			System.out.println(e.getMessage());
 //		}
 		catch(Throwable e) {
-			System.out.println(e.getmessage());
+			System.out.println(e.getMessage());
 		}
 				
 		
